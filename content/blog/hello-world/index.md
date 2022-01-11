@@ -5,6 +5,7 @@ description: "Hello World"
 ---
 # Upcoming Topics
 - Passing the test
+- Callsign and vanity call signs
 - Being an amateur amateur
 - Cubic SDR - no worries listening
 - Ham Shack Pi
@@ -27,6 +28,9 @@ description: "Hello World"
 - Working ISS
 - Making a atenna rotator
 - Making a Yagi
+- Why Baofeng's don't suck
+- The future of ham (demographics, technology, ham 2.0)
+- Winlink to Twitter (or something comperable)
 
 
 

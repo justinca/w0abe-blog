@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `W0ABE.com`,
+    title: `W0̷ABE.com`,
     author: {
       name: `Justin Calvert`,
       summary: `Ham, Weather, & Software`,
