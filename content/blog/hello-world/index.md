@@ -3,6 +3,33 @@ title: Hello World
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
+# Upcoming Topics
+- Passing the test
+- Being an amateur amateur
+- Cubic SDR - no worries listening
+- Ham Shack Pi
+- Picking a radio
+- The art of listening
+- Whats interests me (QRP, HF, remote comms, just simple enough)
+- Blog stack
+- Dev stack
+- My Hamshack machine stack - adventures in linux
+- First antenna
+- Back to the future (Ham needs a refresh)
+- Hamfest
+- Getting it all into the shack
+- Adventures in digital
+- Places you need to be (qrz.com)
+- POTA, SOTA
+- APRS tracking
+- My weather station
+- Going mobile
+- Working ISS
+- Making a atenna rotator
+- Making a Yagi
+
+
+
 
 This is my first post on my new fake blog! How exciting!
 
@@ -26,6 +53,12 @@ You can also write code blocks here!
 ```js
 const saltyDuckEgg = "chinese preserved food product"
 ```
+
+| Number | Title                                    | Year |
+| :----- | :--------------------------------------- | ---: |
+| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
+| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
+| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
 
 | Number | Title                                    | Year |
 | :----- | :--------------------------------------- | ---: |
