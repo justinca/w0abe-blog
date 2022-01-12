@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { DiscussionEmbed } from "disqus-react"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -9,6 +10,10 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+  const disqusConfig = {
+    shortname: 'w0abe',
+    config: { identifier: location },
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -30,6 +35,7 @@ const BlogPostTemplate = ({ data, location }) => {
           itemProp="articleBody"
         />
         <hr />
+        <DiscussionEmbed {...disqusConfig} />
         <footer>
           <Bio />
         </footer>
