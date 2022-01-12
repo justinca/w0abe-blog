@@ -24,8 +24,7 @@ const BlogPostTemplate = ({ data, location }) => {
         description={post.frontmatter.description || post.excerpt}
       />
 
-      <ShareComponent url={location.href} text={post.frontmatter.title} longtext={data.markdownRemark.excerpt}/>
-
+      {console.log(location)}
       <article
         className="blog-post"
         itemScope
@@ -39,6 +38,7 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        <ShareComponent url={location.href} text={post.frontmatter.title} longtext={data.markdownRemark.excerpt}/>
         <hr />
         <footer>
           <Bio />

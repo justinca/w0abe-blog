@@ -9,6 +9,8 @@ import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import {FaTwitter} from 'react-icons/fa';
+import {FaGlobeAmericas} from 'react-icons/fa';
+import {FaSun} from 'react-icons/fa';
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -47,19 +49,18 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <p>
             <a href={`https://twitter.com/${social.twitter}`} >
               <FaTwitter/>
             </a>
+             | 
+            <a href={`https://www.wunderground.com/weather/us/co/bellvue/KCOBELLV9`} >
+              <FaSun/>
+            </a>
+             | 
+             <a href={`https://www.qrz.com/db/W0ABE`} >
+              <FaGlobeAmericas/>
+            </a>
           <p/>
-          <a target="_blank" rel="noreferrer" href={`https://www.qrz.com/db/W0ABE`}>
-            Find me on QRZ
-          </a>
-          <p/>
-          <a target="_blank" rel="noreferrer" href={`https://www.wunderground.com/weather/us/co/bellvue/KCOBELLV9`}>
-            View my weather station
-          </a>
-          </p>
         </p>
       )}
     </div>
