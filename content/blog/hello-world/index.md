@@ -31,6 +31,7 @@ description: "Hello World"
 - Why Baofeng's don't suck
 - The future of ham (demographics, technology, ham 2.0)
 - Winlink to Twitter (or something comperable)
+- Electrical solar generator build
 
 
 

@@ -3,10 +3,10 @@ module.exports = {
     title: `W0̷ABE.com`,
     author: {
       name: `Justin Calvert`,
-      summary: `Ham, Weather, & Software`,
+      summary: `Ham radio newbie, software developer, and weather watcher 🏔 📡 💻`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://w0abe.com/`,
     social: {
       twitter: `W0Abe`,
     },
