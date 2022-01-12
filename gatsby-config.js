@@ -5,7 +5,7 @@ module.exports = {
       name: `Justin Calvert`,
       summary: `Ham radio newbie, software developer, and weather watcher.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Ham Radio & Some Other Stuff`,
     siteUrl: `https://w0abe.com/`,
     social: {
       twitter: `W0Abe`,
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "W0ABE.com",
           },
         ],
       },
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `W0ABE.com`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
