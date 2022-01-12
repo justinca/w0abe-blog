@@ -8,6 +8,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import {FaTwitter} from 'react-icons/fa';
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -47,15 +48,15 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <p>
-          <a target="_blank" href={`https://twitter.com/${social?.twitter || ``}`}>
-            Follow me on Twitter
-          </a>
+            <a href={`https://twitter.com/${social.twitter}`} >
+              <FaTwitter/>
+            </a>
           <p/>
-          <a target="_blank" href={`https://www.qrz.com/db/W0ABE`}>
+          <a target="_blank" rel="noreferrer" href={`https://www.qrz.com/db/W0ABE`}>
             Find me on QRZ
           </a>
           <p/>
-          <a target="_blank" href={`https://www.wunderground.com/weather/us/co/bellvue/KCOBELLV9`}>
+          <a target="_blank" rel="noreferrer" href={`https://www.wunderground.com/weather/us/co/bellvue/KCOBELLV9`}>
             View my weather station
           </a>
           </p>
