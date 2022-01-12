@@ -18,4 +18,4 @@ I'm not quite sure, but something led me to dig in to the ham radio world and re
 ## Whats Next?
 I didn't start this blog on day one. So I have a bit of catching up to do. Getting on the air, UHF/VHF, building my first dipole, and making my first contact. But I have a lot ahead of me. I have yet to create a permanent entry point for coax into the shack, and haven't even touch digital.
 
-Here's to exploring a world of 1000 rabbit holes and seeing projects through to the end!
+Here's to exploring a world of 1000 rabbit holes and seeing projects through to the end!    

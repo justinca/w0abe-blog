@@ -47,8 +47,16 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <p>
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+          <a target="_blank" href={`https://twitter.com/${social?.twitter || ``}`}>
+            Follow me on Twitter
+          </a>
+          <p/>
+          <a target="_blank" href={`https://www.qrz.com/db/W0ABE`}>
+            Find me on QRZ
+          </a>
+          <p/>
+          <a target="_blank" href={`https://www.wunderground.com/weather/us/co/bellvue/KCOBELLV9`}>
+            View my weather station
           </a>
           </p>
         </p>
