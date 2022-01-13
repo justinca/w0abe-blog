@@ -49,17 +49,19 @@ const Bio = () => {
         <p>
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
+          <p>
             <a href={`https://twitter.com/${social.twitter}`} >
-              <FaTwitter/>
+              <FaTwitter/> Twitter
             </a>
-             | 
+            <span>  |  </span> 
             <a href={`https://www.wunderground.com/weather/us/co/bellvue/KCOBELLV9`} >
-              <FaSun/>
+              <FaSun/> Weather
             </a>
-             | 
+            <span>  |  </span> 
              <a href={`https://www.qrz.com/db/W0ABE`} >
-              <FaGlobeAmericas/>
+              <FaGlobeAmericas/> QRZ
             </a>
+            </p>
           <p/>
         </p>
       )}
