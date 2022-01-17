@@ -126,6 +126,9 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-offline`,
+    },
+    {
       resolve: `gatsby-plugin-disqus`,
       options: {
           shortname: `w0abe`
