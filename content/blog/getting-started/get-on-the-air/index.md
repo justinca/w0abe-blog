@@ -14,8 +14,6 @@ date: "2021-01-17T19:46:37.121Z"
 
 ## Step One - Get Your License
 
->“Perfection is the enemy of progress.” — Winston Churchill
-
 Coming into ham radio completely blind can be overwhelming. My goal was to get on the air as quickly as possible in 3 steps:
 
 1. Listen to as many bands as possible (no license required)
@@ -30,6 +28,7 @@ The SDR play allowed me to listen to HF/VHF/UHF all for about $100. The Baofeng 
 
 This following is focused on helping you get your license. It isn't a step-by-step guide. But I did try to stuff as much useful info in here as possible for anyone that is starting at step one.
 
+>“Perfection is the enemy of progress.” — Winston Churchill
 ## The Test(s)
 The current available license levels are Technician, General, & Extra. With each level you are granted more access to the amateur radio bands. How far you choose to go will largely depend on your goals. I would suggest getting your General at a minimum. This will get you access to the more popular digital portions of the bands. If your goal is to just use an Handy Talkie and a repeater then Technician is all you really need. 
 
