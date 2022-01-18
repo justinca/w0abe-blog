@@ -45,7 +45,7 @@ const BlogPostTemplate = ({ data, location }) => {
           <DiscussionEmbed {...disqusConfig} />
         </footer>
       </article>
-      <nav className="blog-post-nav">
+      {/* <nav className="blog-post-nav">
         <ul
           style={{
             display: `flex`,
@@ -70,7 +70,7 @@ const BlogPostTemplate = ({ data, location }) => {
             )}
           </li>
         </ul>
-      </nav>
+      </nav> */}
     </Layout>
   )
 }
