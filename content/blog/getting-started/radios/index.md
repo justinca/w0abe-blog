@@ -1,9 +1,9 @@
 ---
 title: Getting Started - Radios [Draft]
-date: "2021-01-15T19:46:37.121Z"
+date: "2021-01-19T19:46:37.121Z"
 ---
 
-Getting Started Series                                   
+<!-- Getting Started Series                                   
 :---------------------------------------
 [Get On The Air](./get-on-the-air)
 [Radios](./radios)
@@ -11,70 +11,49 @@ Getting Started Series
 [Operating](./operating)
 
 
----
+--- -->
 
->“Perfection is the enemy of progress.” — Winston Churchill
+## Radio Gradient
+So you passed your test and even though you have your trusty Baofeng its time to upgrade. Buy carefully and deliberately. Its easy to gravitate towards the shiniest radio and everyone will have suggestions. Focus on getting on the air - its not all about the radio. The radio you chose should allow you to experiment in the areas of amateur radio you are interested in and not break the bank. Follow the natural gradient - buy just enough and buy up as your skills grow.
 
-## Step One
-Coming into ham radio completly blind can be overwhelming. My goal was to get on the air as quickly as possible in 3 steps:
+I heard folks on the local repeater talking up the Icom-7300, the VE that administered my general mentioned the same model after the test. Early on I was sure this was the transceiver I should buy. I resisted the urge and was glad I did. The information below helped me right size first big radio purchase.
 
-1. Listen to as many bands as possible (no license required)
-2. Make contact on the repeaters (VHF/UHF)
-3. Make contact on High Frequency (HF)
+![Shiny!](./icom-ic-7300.jpg)
 
-You're job is to stay focused on getting on the air. **Don't go out and buy a bunch of equipment**. Ultimately my initial gear purchases happened over the course of a few months: [SDR Play](https://www.sdrplay.com/) --> Baofeng --> Yaesu FT-891. The gear aligned with my initial goals, and aside from antennas, should get me by for awhile before I need to upgrade.
+## Let Your Interest Guide you
+Some hams are fine with a Baofeng. They want to talk on the repeaters and socialize others in the area. Anything beyond that portion of the hobby and you need to start looking in to a high frequency (HF) rig. HF opens up long distance communications and digital. Long distance involves making QSO's (contact) with other hams. In some instances they will send you a QSL card. Digital allows email, RTTY and other modes that I will dive into as I get deeper into the hobby. Theres one more factor - **where** you will be using the radio. The Icom 7300 can be used in the field but its large and doesnt lend itself well to travel like a mobile transceiver.
 
-The SDR play allowed me to listen to HF/VHF/UHF all for about $100. The Baofeng is not a favorite of the ham radio world, but its cheap and acessible. The Yaesu was my last purchase and is mobile but robust enough for digital modes.
+![QSL Card](./QSL.png)
+## CQ POTA CQ POTA CQ POTA
+One aspect of the hobby that interested me early on was [POTA - Parks on the Air](https://parksontheair.com/). POTA is "activating" a state or national park by operating within the parks boundaries and making 10 or more QSO's. There are activators and hunters. Activators are the operators and hunters are looking to make contact with the activators. All logs are submitted and awards are given based on a variety of different achievements. POTA seems very popular and activating a park requires a versatile radio that can be run off a battery.
 
-![Nothing but love for baofeng](./baofeng2.jpg)
+`youtube:https://www.youtube.com/embed/U1L-5wl5rpQ`
 
-This isn't a step-by-step guide. But I did try to stuff as much useful info in here as possible for anyone that is starting at step one.
 
-## Information
-- Books
-- Local Club
-- The internet
-## The test(s)
-- You want at least a General
-- Print 2 copies of the ARRL band chart, laminate them and keep one in your shack 
-**[ARRL Band Chart Download](http://www.arrl.org/files/file/Regulatory/Band%20Chart/Band%20Chart%20-%2011X17%20Color.pdf)**
-![ARRL Band Chart](./Band_Chart_Image_for_ARRL_Web.jpg)
-
-- Hamstudy.org
-	- Studying
-		- Go through the questions multiple times
-			- Dont guess
-			- Take many practice tests
-	- License levels
-	- Remote
-		- Over prepare
-		- Dont waste people time
-		- Clean your workspace
-
-## Vanity Call Signs
-- How and why to get them 
-- Helpful resources
-## Radios
-- Do your homework
-	- Dont just buy it because its pretty
-- New vs. Used
-- HT vs. Mobile vs. Base station 
-- SDR vs Non-SDR
-## Antennas
-- Build vs buy
-- Dipole via Home depot
-- Jpole
-- Grounding
-
-## Misc.
-- Coax
-- Grouding
-- Entry panel
-- Branded gear
-## Now that you are on the air
-- Listen
-- Finding nets
-- Local repeaters
-- Programming your HT
-- Edecete
-	- HF vs. Repeater
+	- HF vs UHF/VHF
+	- SOTA POTA
+	- Mobile
+		- Offroad
+		- Camping
+		- Emergencies
+- You will own multiple radios
+- HT vs Mobile vs Base Station
+	- Mobile - power supply
+- New vs used
+	- The benefit of new
+	- Hamfests
+	- QRZ
+	- Craigslist & Ebay
+- Leave some budget
+	- Coax
+	- Power poles
+	- Lightning arresters
+	- Entry panel
+	- Antennas
+	- Dummy load
+	- Random cables (digital)
+- Shack in a box
+- All band vs dual band vs single band
+	- Cost
+	- How active are the repeaters on 2m and 70cm
+- My choice
