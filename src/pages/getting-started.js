@@ -28,7 +28,8 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="All posts" />
+      <h1>Getting Started</h1>
+      <Seo title="Getting Started" />
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {/* {console.log(posts[0].frontmatter.title)} */}
@@ -71,28 +72,30 @@ const BlogIndex = ({ data, location }) => {
 export default BlogIndex
 
 export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-        menuLinks {
-        name
-        link
-      }
-      }
+{
+  site {
+    siteMetadata {
+      title
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-        }
+  }
+  allMarkdownRemark(
+    sort: {fields: [frontmatter___date], order: ASC}
+    filter: {fields: {slug: {regex: "/getting-started/"}}}
+  ) {
+    nodes {
+      excerpt
+      fields {
+        slug
+      }
+      frontmatter {
+        date(formatString: "MMMM DD, YYYY")
+        title
+        description
       }
     }
   }
+  sitePage {
+    id
+  }
+}
 `

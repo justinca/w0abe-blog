@@ -1,6 +1,6 @@
 ---
 title: The Goal
-date: "2021-01-11T19:46:37.121Z"
+date: "2022-01-11T19:46:37.121Z"
 ---
 
 The goal here is simple: make this the resource I wish I had a couple of months ago. Illustrate all the amazing things you can do with ham radio. Document and consolidate the information that is spread across the internet. And most important, don't let this be another abandoned blog.

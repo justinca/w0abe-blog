@@ -1,6 +1,6 @@
 ---
 title: Getting Started - Get On the Air
-date: "2021-01-17T19:46:37.121Z"
+date: "2022-01-17T19:46:37.121Z"
 ---
 
 <!-- ***Getting Started Series***

@@ -1,6 +1,6 @@
 ---
 title: Getting Started - Coax Entry & Grounding [Draft]
-date: "2021-01-15T19:46:37.121Z"
+date: "2022-01-15T19:46:37.121Z"
 ---
 
 Getting Started Series                                   

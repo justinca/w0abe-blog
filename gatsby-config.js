@@ -1,6 +1,16 @@
 module.exports = {
   siteMetadata: {
     title: `W0̷ABE.com`,
+    menuLinks:[
+      {
+        name:'home',
+        link: '/'
+      },
+      {
+        name:'getting-started',
+        link: '/getting-started'
+      },
+    ],
     author: {
       name: `Justin Calvert`,
       summary: `Ham radio newbie, software developer, and weather watcher.`,
@@ -14,6 +24,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-image`,
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-mdx`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
