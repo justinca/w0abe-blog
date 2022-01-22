@@ -7,6 +7,7 @@ import Seo from "../components/seo"
 const About = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
+  const menu = data.site.siteMetadata.menuLinks
 
   if (posts.length === 0) {
     return (
@@ -22,7 +23,7 @@ const About = ({ data, location }) => {
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={siteTitle} menuLinks={menu}>
       <Seo title="All posts" />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
@@ -67,6 +68,10 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        menuLinks {
+        name
+        link
+      }
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
