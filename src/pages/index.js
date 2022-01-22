@@ -7,6 +7,7 @@ import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
+  const menu = data.site.siteMetadata.menuLinks
   //const posts = data.allMarkdownRemark.nodes
   
   //Logic to hide posts with the word 'Draft' in the title
@@ -27,9 +28,9 @@ const BlogIndex = ({ data, location }) => {
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={siteTitle} menuLinks={menu}>
+      <h1>Recent Posts</h1>
       <Seo title="All posts" />
-      <Bio />
       <ol style={{ listStyle: `none` }}>
         {/* {console.log(posts[0].frontmatter.title)} */}
         {/* {console.log(posts.filter(function(x) {return !x.frontmatter.title.includes("Draft")}))} */}
@@ -64,6 +65,7 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </ol>
+      <Bio />
     </Layout>
   )
 }

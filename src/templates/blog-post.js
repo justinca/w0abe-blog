@@ -9,6 +9,7 @@ import Seo from "../components/seo"
 import ShareComponent from "../components/share"
 
 const BlogPostTemplate = ({ data, location }) => {
+  const menu = data.site.siteMetadata.menuLinks
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
@@ -18,7 +19,7 @@ const BlogPostTemplate = ({ data, location }) => {
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={siteTitle} menuLinks={menu}>
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
@@ -86,6 +87,10 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        menuLinks {
+        name
+        link
+      }
       }
     }
     markdownRemark(id: { eq: $id }) {
