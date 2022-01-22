@@ -5,6 +5,7 @@ import Nav from "./nav"
 const Layout = ({ location, title, children, menuLinks }) => {
   
   const rootPath = `${__PATH_PREFIX__}/`
+  
   const links = menuLinks.map(x=> x.link);
   
   // const isRootPath = location.pathname === rootPath

@@ -7,7 +7,7 @@ import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const menu = data.site.siteMetadata.menuLinks
+  const menu = data.site.siteMetadata?.menuLinks
   //const posts = data.allMarkdownRemark.nodes
   
   //Logic to hide posts with the word 'Draft' in the title
