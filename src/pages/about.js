@@ -7,6 +7,7 @@ import Seo from "../components/seo"
 const About = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
+  const menu = data.site.siteMetadata.menuLinks
 
   if (posts.length === 0) {
     return (

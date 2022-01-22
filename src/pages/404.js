@@ -6,6 +6,7 @@ import Seo from "../components/seo"
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
+  const menu = data.site.siteMetadata.menuLinks
 
   return (
     <Layout location={location} title={siteTitle} menuLinks={menu}>
