@@ -3,12 +3,16 @@ module.exports = {
     title: `W0̷ABE.com`,
     menuLinks:[
       {
-        name:'home',
+        name:'Home',
         link: '/'
       },
       {
-        name:'getting-started',
+        name:'Getting Started',
         link: '/getting-started'
+      },
+      {
+        name:'Projects',
+        link: '/projects'
       },
     ],
     author: {
