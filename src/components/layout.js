@@ -16,9 +16,12 @@ const Layout = ({ location, title, children, menuLinks }) => {
   
   if (isRootPath) {
     header = (
+      <div>
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
       </h1>
+      Ham Radio
+      </div>
     )
   } else {
     header = (
