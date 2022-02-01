@@ -5,7 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogIndex = ({ data, location }) => {
+const LogBook = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const menu = data.site.siteMetadata?.menuLinks
   //const posts = data.allMarkdownRemark.nodes
@@ -15,7 +15,7 @@ const BlogIndex = ({ data, location }) => {
 
   if (posts.length === 0) {
     return (
-      <Layout location={location} title={siteTitle}>
+      <Layout location={location} title={siteTitle} menuLinks={menu}>
         <Seo title="All posts" />
         <Bio />
         <p>
@@ -30,7 +30,7 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle} menuLinks={menu}>
       <h1>Logbook</h1>
-      <Seo title="Getting Started" />
+      <Seo title="Logbook" />
       <iframe class="logbook" align="top" frameborder="0" scrolling="yes" src="https://logbook.qrz.com/lbstat/W0ABE/"></iframe> 
       <Bio />
 
@@ -38,7 +38,7 @@ const BlogIndex = ({ data, location }) => {
   )
 }
 
-export default BlogIndex
+export default LogBook
 
 export const pageQuery = graphql`
 {
