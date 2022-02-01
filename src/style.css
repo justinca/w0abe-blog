@@ -335,13 +335,18 @@ a:focus {
 
 .nav-bar-li-a {
   text-align: center;
-  padding: 14px 50px;
+  padding: 14px 30px;
   text-decoration: none;
 }
 
 .nav-bar-li-a:hover {
   background-color: rgba(172, 172, 172, 0.151);
   -webkit-text-stroke: 0.25px white;
+}
+
+.logbook {
+  height: 500px;
+  width: 100%
 }
 
 /* Media queries */

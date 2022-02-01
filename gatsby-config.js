@@ -14,6 +14,10 @@ module.exports = {
         name:'Projects',
         link: '/projects'
       },
+      {
+        name:'Logbook',
+        link: '/logbook'
+      },
     ],
     author: {
       name: `Justin Calvert`,
