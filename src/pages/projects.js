@@ -88,7 +88,7 @@ export const pageQuery = graphql`
   }
   allMarkdownRemark(
     sort: {fields: [frontmatter___date], order: ASC}
-    filter: {fields: {slug: {regex: "/getting-started/"}}}
+    filter: {fields: {slug: {regex: "/projects/"}}}
   ) {
     nodes {
       excerpt

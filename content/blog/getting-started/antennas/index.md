@@ -11,7 +11,7 @@ date: "2022-02-08T19:46:37.121Z"
 [Operating](./operating) -->
  
 ## Antennas Are Half Of The Equation
-Your transceiver won't work without an Antenna. This post isn't going to scratch the surface of amateur radio antennas but I hope it helps you to get on the air. While researching my first antenna I read a number of posts that suggested you build your first antenna. I did, and it was worth it. You can read about antennas all day but building your own really helps the pieces fall into place.
+Your transceiver won't work without an Antenna. This post isn't going to scratch the surface of amateur radio antennas but I hope it helps you to get on the air. While researching my first antenna I read a number of posts that suggested you should build your first antenna. I did, and it was worth it. You can read about antennas all day but building your own really helps the pieces fall into place.
  
 ## SWR
 You will no doubt encounter Standing Wave Ratio (SWR) values as you investigate antennas. SWR is the ratio of energy that is reflected back to your transceiver. In a perfect world an antenna's SWR would be 1:1. Generally the value is expressed as only the first number. Values below 2 are preferred. High SWR values can damage your transceiver during transmission so make sure you understand what it is and how to measure it. Modern transceivers have built-in SWR meters. My FT-891 needs to be set to 5 watts to measure SWR. If you turn your power down the chances of damaging your rig are greatly reduced.
@@ -26,11 +26,11 @@ Antenna tuners are not necessary but are nice to have. You will probably end up 
 ## Building A Dipole
 In the interest of just getting on the air I would suggest building a dipole. You can get a functional antenna that hangs from a tree with mateirals found at your local hardware store. Im not going to cover building the dipole in detail since there is already plenty of material out there.
  
-Why a dipole? Its cheap and easy, doesn't require a tuner or a [balun](https://en.wikipedia.org/wiki/Balun), and they are very effective. I followed the following video and modified it slightly to deal with the challenges I faced.
+Why a dipole? Its cheap and easy, doesn't require a tuner or a [balun](https://en.wikipedia.org/wiki/Balun), and they are very effective. I followed the following video and modified it slightly based on the materials I had on hand.
  
 `youtube:https://www.youtube.com/embed/fY8XaxamIYU`
  
-The range of your dipole will be based on the length of the wire. There are plenty of online [dipole calculators](http://www.westmountainradio.com/antenna_calculator.php) to help you determine wire length. Make sure to target the phone portion of the band. The 20 meter band is incredibly popular and requires a reasonably sized dipole but is generally only available during the day.
+The coverage of your dipole will be based on the length of the wire. Visit an online [dipole calculator](http://www.westmountainradio.com/antenna_calculator.php) to help you determine how long your wire needs to be. Make sure to target the phone portion of the band. The 20 meter band is incredibly popular and requires a reasonably sized dipole.
  
 To hook up to my coax I used this SMA Male to SO-239 female connector. You could use a [BNC Male to Banana](https://www.amazon.com/dp/B07TC1L8RP/?coliid=I29POD4DV8WP7B&colid=WJ4GCSVOEMJI&psc=1&ref_=lv_ov_lig_dp_it) if you don't have a soldering iron.
  
