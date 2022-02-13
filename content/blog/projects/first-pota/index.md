@@ -10,6 +10,8 @@ date: "2022-02-13T19:46:37.121Z"
 [Antennas](./antennas)
 [Operating](./operating) -->
  
+## Parks on the Air
+What is Parks on the Air
 ## Gearing Up
 - Gear
     - Rig
@@ -26,6 +28,9 @@ date: "2022-02-13T19:46:37.121Z"
 
 ![SMA Male to UHF SO-239 Female Connectors](./K-1228.png)
 <span style="color:gray">*[K-1228 Lory State Park, Colorado](https://pota.app/#/park/K-1228)*</span>
+
+## Typical Contact
+- What was the back and forth
 
 ## Lessons Learned
 - How did it go

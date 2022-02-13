@@ -31,12 +31,10 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle} menuLinks={menu}>
       <h1>Projects</h1>
       <Seo title="Projects" />
-      <h2>No projects yet :(</h2>
-      Check back soon.
       <ol style={{ listStyle: `none` }}>
         {/* {console.log(posts[0].frontmatter.title)} */}
         {/* {console.log(posts.filter(function(x) {return !x.frontmatter.title.includes("Draft")}))} */}
-        {/* {posts.map(post => {
+        {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
@@ -65,7 +63,7 @@ const BlogIndex = ({ data, location }) => {
               </article>
             </li>
           )
-        })} */}
+        })}
       </ol>
       <Bio />
 
