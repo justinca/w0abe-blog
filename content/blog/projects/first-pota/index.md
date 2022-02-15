@@ -1,7 +1,7 @@
 ---
 title: First POTA Field Experience
 date: "2022-02-14T19:46:37.121Z"
-featured: /POTA.png
+featured: ./POTA.png
 ---
  
 <!-- Getting Started Series                                  
