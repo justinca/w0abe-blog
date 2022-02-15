@@ -12,20 +12,20 @@ date: "2022-02-14T19:46:37.121Z"
  
 I completed my first [POTA](https://parksontheair.com/) activation at K-1228, Lory State Park on 02/13/2022. It technically wasn't an activation since I didn't get enough contacts, but I had a great time and it was an opportunity to take all my new gear out for a test run. I'm going to continue to hunt at home and plan to give activation another shot next weekend.
 
-![K-1228](./K-1228.png)
-<span style="color:gray">*[K-1228 Lory State Park, Colorado](https://pota.app/#/park/K-1228)*</span>
+![My POTA Setup](./POTA.png)
+<span style="color:gray">*My POTA Setup*</span>
 
 ## Challenges
 It was sunny and in the mid-50's when I managed to get out of the house. K-1228 is minutes away from my front door but I only had a little over an hour for POTA. This was my first mistake. I'm sure as I streamline my setup and gear and hour will be plenty of time but for the maiden voyage, it wasn't quite enough. As agreeable as the weather was it was windy and my paper logs would get unruly at times. I'm going to stick with paper logs until it dries out here a bit or I outfit my truck with an antenna so I can sit in the cab if it's gross out.
 
 There is no cell service at the park so I couldn't self-spot or see what frequencies everyone else was on. This wasn't a deal-breaker but it's definitely different than when you are at home enjoying fast wifi.
 
+![K-1228](./K-1228.png)
+<span style="color:gray">*[K-1228 Lory State Park, Colorado](https://pota.app/#/park/K-1228)*</span>
+
 Finally, I was the last challenge. It seemed like a busy Sunday on the air and I had a hard time finding a frequency to sit on and call CQ. I could have been more patient before running up and down the dial looking for a park-to-park.
 
 There were challenges but that's half the fun.
-
-![My POTA Setup](./POTA.png)
-<span style="color:gray">*My POTA Setup*</span>
 ## Gear
 The night before my outing I managed to add [Anderson Powerpoles](./powerpoles/) to my setup. This made disconnecting from my desk and hooking up to my battery a breeze. I took my FT-891 transceiver and left the antenna tuner at home. The end-fed antenna did just fine without it. For power, I purchased a 12 amp hour LiFePO4 battery and ran 80 watts while operating. My gear worked great and overall I'm happy with my setup.
 
