@@ -85,7 +85,7 @@ export const pageQuery = graphql`
     }
   }
   allMarkdownRemark(
-    sort: {fields: [frontmatter___date], order: ASC}
+    sort: {fields: [frontmatter___date], order: DESC}
     filter: {fields: {slug: {regex: "/projects/"}}}
   ) {
     nodes {

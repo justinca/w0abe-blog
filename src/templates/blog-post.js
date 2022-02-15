@@ -12,17 +12,21 @@ const BlogPostTemplate = ({ data, location }) => {
   const menu = data.site.siteMetadata.menuLinks
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
+  const image = post.frontmatter.image
+  ? post.frontmatter.image.childImageSharp.resize
+  : null
   const { previous, next } = data
   const disqusConfig = {
     shortname: 'w0abe',
     config: { identifier: location },
   }
-
+  
   return (
     <Layout location={location} title={siteTitle} menuLinks={menu}>
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        image={image}
       />
 
       {console.log(location)}
@@ -101,6 +105,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        featured
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
