@@ -73,10 +73,6 @@ const Seo = ({ description, lang, meta, image: metaImage, title, pathname }) => 
           content: `website`,
         },
         {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
           name: `twitter:image`,
           content: `${site.siteMetadata.siteUrl}/twitter-card.jpg`,
         },
