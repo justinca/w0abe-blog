@@ -155,10 +155,18 @@ module.exports = {
       resolve: `gatsby-plugin-offline`,
     },
     {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.w0abe.com.com',
+        sitemap: 'https://www.w0abe.com/sitemap.xml',
+        policy: [{userAgent: '*', allow: '/'}]
+      }
+    },
+    {
       resolve: `gatsby-plugin-disqus`,
       options: {
           shortname: `w0abe`
-      }
+      },
   },
     `gatsby-plugin-react-helmet`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
