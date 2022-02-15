@@ -157,8 +157,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://www.w0abe.com.com',
-        sitemap: 'https://www.w0abe.com/sitemap.xml',
+        host: 'https://w0abe.com.com',
+        sitemap: 'https://w0abe.com/sitemap.xml',
         policy: [{userAgent: '*', allow: '/'}]
       }
     },
