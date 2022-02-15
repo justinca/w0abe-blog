@@ -43,5 +43,5 @@ I'm still getting the hang of ham radio contacts. I mean it's not rocket science
 ## Processing Logs
 I didn't think too much about processing logs until I got home. This part of the process felt clunky and I would love feedback on the best way to streamline this process. The steps outlined in the blog post [Logging for POTA](https://www.khk.net/wordpress/2020/01/02/logging-for-pota/) by Karl Heinz Kremer seems good enough for now. I'm either on a Mac or Linux machine so I'm not sure how many options there are for logging. My assumption is this is a fairly manual process for everyone involved until the technical minutia is ironed out enough to automate it?
 
-## POTA is Fun!
+## POTA is A Good Time!
 I definitely plan on diving deeper into POTA. I enjoy the prep, planning, and execution of it all and everyone I made contact with was extremely nice. I hope to have everything dialed in enough that I am able to hike in and operate. Thank you to everyone I made contact with and the folks at POTA that volunteer their time to make this all possible. 
