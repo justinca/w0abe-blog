@@ -12,7 +12,7 @@ Building the packet interface cable allows you to avoid using (or buying) additi
 <span style="color:gray">*Homebrew packet interface cable*</span>
 
 ## Challenges
-The packet interface cable was pretty straight forward. Be aware you are working with very, very small wires. I followed the "use a lighter method" and it worked well enough. Make sure you hold the flame to the ire just long enough to soften it. 
+The packet interface cable was pretty straightforward. Be aware you are working with very, very small wires. I followed the "use a lighter method" and it worked well enough. Make sure you hold the flame to the ire just long enough to soften it. 
 
 `youtube:https://www.youtube.com/embed/n5o2drU65UM`
 <span style="color:gray">*How to strip real small wires*</span>
