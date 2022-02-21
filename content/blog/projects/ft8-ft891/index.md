@@ -12,14 +12,14 @@ Building the packet interface cable allows you to avoid using (or buying) additi
 <span style="color:gray">*Homebrew packet interface cable*</span>
 
 ## Challenges
-The packet interface cable was pretty straightforward. Be aware you are working with very, very small wires. I followed the "use a lighter method" and it worked well enough. Make sure you hold the flame to the ire just long enough to soften it. 
+The packet interface cable was pretty straightforward. Be aware you are working with very, very small wires. I followed the "use a lighter method" and it worked well enough. Make sure you hold the flame to the fire just long enough to soften it. 
 
 `youtube:https://www.youtube.com/embed/n5o2drU65UM`
 <span style="color:gray">*How to strip real small wires*</span>
 
 Give yourself enough wire length to work with. I was a little too conservative and it was a tight squeeze when I attached everything with electrical tape. Now that I have verified it works as expected I plan to solder the connections and use heat shrink tube to add durability. 
 
-To hook my new cable up to my rig I purchased a[USB Type-C Stereo adaptor](https://www.amazon.com/dp/B071HJ98Q6?psc=1&ref=ppx_yo2_dt_b_product_details). Ensure the correct audio plugs are plugged into the appropriate spots on the adaptor. If you're having problems at the end switch them up and see if that gets you going.
+To hook my new cable up to my rig I purchased a [USB Type-C Stereo adaptor](https://www.amazon.com/dp/B071HJ98Q6?psc=1&ref=ppx_yo2_dt_b_product_details). Ensure the correct audio plugs are plugged into the appropriate spots on the adaptor. If you're having problems at the end switch them up and see if that gets you going.
 
 ## FT-891 Settings
 
