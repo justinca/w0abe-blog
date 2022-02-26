@@ -4,7 +4,7 @@ date: "2022-02-19T19:46:37.121Z"
 featured: ./FT-8.png
 ---
  
-I have been working my way up to digital modes. After completion of my homebrew packet interface cable and the addition of 40 meters to my homebrew dipole (now a fan dipole) I thought I would give it a shot. Following the steps outline in [AA0O's blog post](https://aa0o.radio/2019/04/13/yaesu-ft-891-ft8-usb-c-mac-ps-2-cable/) to assemble the cable and general setup and tweaking the FT-891 settings a bit I did manage to get everything running. 
+I have been working my way up to digital modes. After completion of my homebrew packet interface cable and the addition of 40 meters to my homebrew dipole (now a fan dipole) I thought I would give it a shot. Following the steps outline in [AA0O's blog post](https://wsaa0o.radio/2019/04/13/yaesu-ft-891-ft8-usb-c-mac-ps-2-cable/) to assemble the cable and general setup and tweaking the FT-891 settings a bit I did manage to get everything running. 
 
 Building the packet interface cable allows you to avoid using (or buying) additional hardware like a [SignalLink USB](https://www.hamradio.com/detail.cfm?pid=H0-009906). I believe there are benefits to using a dedicated device but for my purposes I just wanted to get started as quickly and cheaply as possible. 
 
