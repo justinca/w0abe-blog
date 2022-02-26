@@ -17,7 +17,7 @@ This all started when I wanted the email address for my vanity call sign. Gmail 
 
 The most substantial cost of any web page these days is persistent storage. No matter what database you choose it will cost you. The closest alternative to the $1 blog is a wordpress instance which will cost you at a minimum of $3/ month. Remove persistent storage and you can host a blog for next to nothing. Enter [Gatsby.js](https://www.gatsbyjs.com/).
 
-Gatsby.js is a static site generator. In layman's terms it generates vanilla HTML. What's the benefit? A blazing fast blog that adheres to modern web standards. The drawback - not much comes out-of-the-box. 
+Gatsby.js is a static site generator. In layman's terms it generates vanilla HTML. WhatQ the benefit? A blazing fast blog that adheres to modern web standards. The drawback - not much comes out-of-the-box. 
 
 Blazing fast is relevant since search engines now prioritize user experience, load times, accessability, and adherence to modern standards. These factors now dictate where you rank in terms of search results. This is good news for users but bad news for traditional Ham Radio websites.
 
