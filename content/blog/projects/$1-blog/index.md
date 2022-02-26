@@ -28,9 +28,9 @@ Blazing fast is relevant since search engines now prioritize user experience, lo
 
 ## The *$1/ Year Blog
 
-The first step is to get the domain name for your call sign from [Ionos](https://www.ionos.com/). There may be other sites that you can get a domain for $1 for the first year but at the time of writing Ionos is it. It really doesn't matter where you get your domain from as long as the price is right..
+The first step is to get the domain name for your call sign from [Ionos](https://www.ionos.com/). There may be other sites that you can get a domain for $1 for the first year but at the time of writing Ionos is it. It really doesn't matter where you get your domain from as long as the price is right.
 
-Next clone the [Gatsby Starter Blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog) - look familiar?. This requires knowledge of git. If you know the basics keep trudging ahead, if you don't now is a good time to [dig in](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/).
+Next clone the [Gatsby Starter Blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog) - look familiar? This requires knowledge of git. If you know the basics keep trudging ahead, if you don't now is a good time to [dig in](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/).
 
 From the terminal...
 
