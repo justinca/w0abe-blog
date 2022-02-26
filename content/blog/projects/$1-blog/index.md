@@ -6,7 +6,7 @@ featured: ./lighthouse.png
 
 This blog post documents how I host a blog for $1/year*. That asterick should be bigger. The $1 blog is only for the first year and it's certainly not batteries included... but it's only a buck so you can't really complain.
 
-This post assumes you have basic web development experience. If you don't it's a great opportunity to experiment. At a minimum you will need [VS Code](https://code.visualstudio.com/), [Yarn.js](https://yarnpkg.com/) or [NPM.js](https://www.npmjs.com/), [React.js](https://reactjs.org/), and [GraphQL](https://graphql.org/). I don't go deep on each step. Be prepared to cough up a buck and see how it goes. I bet you have spent A LOT more of amateur radio gear :)
+This post assumes you have basic web development experience. If you don't it's a great opportunity to experiment. At a minimum you will need a text editor such as [VS Code](https://code.visualstudio.com/), a package manager, I recommend [Yarn.js](https://yarnpkg.com/) or [NPM.js](https://www.npmjs.com/), [React.js](https://reactjs.org/), and [GraphQL](https://graphql.org/). I don't go deep on each step. Be prepared to cough up a buck and see how it goes. I bet you have spent A LOT more on amateur radio gear :)
 
 ## TL;DR
 - Domain Name: [Ionos](https://www.ionos.com/)
