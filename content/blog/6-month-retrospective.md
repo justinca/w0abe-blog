@@ -1,5 +1,5 @@
 ---
-title: The Goal [Draft]
+title: The Goal
 date: "2022-01-11T19:46:37.121Z"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Yaesu FT-891 & FT-8
+title: Yaesu FT-891 & FT-8 [Draft]
 date: "2022-02-19T19:46:37.121Z"
 featured: ./FT-8.png
 ---

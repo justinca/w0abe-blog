@@ -1,5 +1,5 @@
 ---
-title: The $1 Blog
+title: The $1 Blog [Draft]
 date: "2022-02-25T19:46:37.121Z"
 featured: ./lighthouse.png
 ---
