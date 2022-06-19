@@ -21,7 +21,7 @@ module.exports = {
     ],
     author: {
       name: `Justin Calvert`,
-      summary: `Ham radio operator, software developer, and weather watcher.`,
+      summary: `Ham radio operator, spatial software developer, and weather watcher.`,
     },
     description: `Ham Radio & Some Other Stuff`,
     siteUrl: `https://w0abe.com/`,
